@@ -28,8 +28,7 @@ A simple React application for managing albums and users, built with React, Type
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/geekup-album-manager.git
-cd geekup-album-manager
+git clone https://github.com/yourusername/GeekUp-Frontend-Technicial-Assessment.git
 ```
 
 2. Install dependencies:
@@ -43,9 +42,9 @@ yarn install
 3. Start the development server:
 
 ```bash
-npm start
+npm run dev
 # or
-yarn start
+yarn run dev
 ```
 
 4. Open your browser and navigate to `http://localhost:3000`
